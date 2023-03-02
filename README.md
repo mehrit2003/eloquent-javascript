@@ -1,2 +1,2 @@
 # eloquent-javascript
-###Third Edition Exercises
+### Third Edition Exercises
