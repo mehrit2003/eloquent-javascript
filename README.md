@@ -1,2 +1,2 @@
 # eloquent-javascript
-Eloquent Javascript  Exercises
+###Third Edition Exercises
